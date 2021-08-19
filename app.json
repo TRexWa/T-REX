@@ -1,11 +1,11 @@
 {
-    "name": "X-Troid",
-    "description": "World First sinhala whatsapp bot",
-    "logo": "https://telegra.ph/file/43e16e51660004dee32d0.jpg",
+    "name": "T-REX",
+    "description": "ONE OF SINHALA BOT FOR SRI LANKA",
+    "logo": "https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai"],
-    "repository": "",
-    "website":   "lasiya.ml",
-    "success_url": "https://t.me/danumabots",
+    "repository": "https://github.com/TRexWa/T-REX",
+    "website":   "https://chat.whatsapp.com/La5MMeWqcLK0Msq50LvnqX",
+    "success_url": "https://chat.whatsapp.com/La5MMeWqcLK0Msq50LvnqX",
     "stack": "container",
     "env": {
         "A_XTROID_SESSION": {
@@ -113,7 +113,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back./ALIVE පණිවිඩය ඔබට අවශ්‍ය පරිදි වෙනස් කරගැනීමට",
             "required": false,
-            "value": "🧧 X-Troid 🧧\nName: X-Troid\nYoutube : youtu.be/mDnJ7q3S3eY\nInfo : type .bot"
+            "value": "💥T-REX💥\nName: T-REX\nwhatsapp: https://chat.whatsapp.com/La5MMeWqcLK0Msq50LvnqX\nInfo : type .bot"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.යමෙකු සමුහයෙන් ඉවත් කරීමේ පණිවිඩය වෙනස් කිරීමට",
