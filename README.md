@@ -1,10 +1,10 @@
 <div align="center">
-  <img border-radius: 15px src="https://i.ibb.co/7G8DcmD/IMG-20210818-162806.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="White" src="https://img.shields.io/badge/DUMI BOT-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/farhan-dqz"><img title="White Dragon" src="https://img.shields.io/badge/Created💥by💥DUMINDU and👉HIRUWA-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/farhan-dqz"><img title="T-REX" src="https://img.shields.io/badge/Created💥by💥DUMINDU and👉HIRUWA-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -64,9 +64,9 @@ CREATED BY DUMINDU AND HIRUWA
 ## Helpers
   <div align="center">
     
-  [![T-REX BOT](https://i.ibb.co/7G8DcmD/IMG-20210818-162806.jpg?size=100)](https://telegra.ph/file/df8f8f311214588c90cdb.jpg) |  [![Ravana](https://github.com/Alien-alfa.png?size=100)](https://github.com/RAVANA-SL/slRavana) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+
 ----|----|----
-[dumi bot](https://github.com/farhan-dqz)  | [Ravana](https://github.com/RAVANA-SL/slRavana) | [Unknown ](https://github.com/afnanplk)
+[dumi bot](https://github.com/farhan-dqz)  | | [Unknown ](https://github.com/afnanplk)
 Base, owner | Help to create bot | unknown
   </div>
     
