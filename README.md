@@ -65,8 +65,8 @@ CREATED BY DUMINDU AND HIRUWA
   <div align="center">
     
 
-----|----|----
-[dumi bot](https://github.com/farhan-dqz)  | | [Unknown ](https://github.com/afnanplk)
+
+[T-REX bot](https://github.com/farhan-dqz)  | | [Unknown ](https://github.com/afnanplk)
 Base, owner | Help to create bot | unknown
   </div>
     
