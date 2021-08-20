@@ -4,12 +4,12 @@
     "logo": "https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai"],
     "repository": "https://github.com/TRexWa/T-REX",
-    "website":   "https://chat.whatsapp.com/La5MMeWqcLK0Msq50LvnqX",
-    "success_url": "https://chat.whatsapp.com/La5MMeWqcLK0Msq50LvnqX",
+    "website":   "https://chat.whatsapp.com/",
+    "success_url": "https://chat.whatsapp.com/",
     "stack": "container",
     "env": {
-        "A_XTROID_SESSION": {
-            "description": "Type here yours X-Troid Session (after get scanning QR)  QR කේතය scan කර ලබාගත් අදාල කේතය මෙහි යොදන්න.",
+        "TREX_SESSION": {
+            "description": "Type here yours T-Rec Session (after get scanning QR)  QR කේතය scan කර ලබාගත් අදාල කේතය මෙහි යොදන්න.",
             "required": true
         },
         "SUDO": {
@@ -19,7 +19,7 @@
         "LANGUAGE": {
             "description": "Bot language. English => en, සිංහල => SI",
             "required": true,
-            "value": "en"
+            "value": "si"
         },
         "ANTİ_LİNK": {
             "description": "⚠️Link Blocking System.⚠️ලින්ක් දමන්නන් සමුහයෙන් ඉවත් කිරීමට",
@@ -85,7 +85,7 @@
             "value": "default"
         },
         "WORK_TYPE": {
-            "description": "Xtroid bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot. ඔබ සාදන්නේ පුද්ගලික bot එකක් නම් “private” ලෙසත් , පොදු botඑකක් නම් “public” ලෙසත් ලබාදෙන්න",
+            "description": "T-Rex bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot. ඔබ සාදන්නේ පුද්ගලික bot එකක් නම් “private” ලෙසත් , පොදු botඑකක් නම් “public” ලෙසත් ලබාදෙන්න",
             "required": true,
             "value": "public"
         },
@@ -113,7 +113,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back./ALIVE පණිවිඩය ඔබට අවශ්‍ය පරිදි වෙනස් කරගැනීමට",
             "required": false,
-            "value": "💥T-REX💥\nName: T-REX\nwhatsapp: https://chat.whatsapp.com/La5MMeWqcLK0Msq50LvnqX\nInfo : type .bot"
+            "value": "💥T-REX💥\nName: T-REX\nwhatsapp: https://chat.whatsapp.com/\nInfo : type .bot"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.යමෙකු සමුහයෙන් ඉවත් කරීමේ පණිවිඩය වෙනස් කිරීමට",
@@ -148,7 +148,7 @@
         "GAN_IMAGE": {
             "description": "Type image link for Gan Style plugin.",
             "required": true,
-            "value": "https://telegra.ph/file/2bb85d7b80b9ad96bcb96.jpg"
+            "value": "https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg"
         },
         "NO_ONLINE": {
             "description": "Type true if you don't want to appear online.ගිණුම online වසා තැබීමට",
