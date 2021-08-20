@@ -2,7 +2,7 @@
     "__ASENAJSON__": true,
     "LANGUAGE": "Sinhala", 
     "LANGCODE": "si",
-    "AUTHOR": "Hiruwa",
+    "AUTHOR": "Dumindu",
     "STRINGS": {
         "_trex": {
             "COMMAND": "Command",
@@ -419,7 +419,7 @@
             "FF_PROC": "Applying Effect.."
         },
         "spammer": {
-            "SPAM_DESC": "ඔබ නවත්වන තුරු එය ස්පෑම් ය t.\n⌨️ Example: .spam DUMI BOT",
+            "SPAM_DESC": "ඔබ නවත්වන තුරු එය ස්පෑම් ය t.\n⌨️ Example: .spam T-REX BOT",
             "NEED_WORD": "*සමහර වචන අවශ්‍යයි !*",
             "STOP_SPAMDESC": "අයාචිත තැපැල් විධානය නතර කරයි. ",
             "STOP_SPAM": "✅ *spam සාර්ථකව නැවැත්වීය!  කරුණාකර මොහොතක් ඉන්න. .*"
