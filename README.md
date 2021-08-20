@@ -1,11 +1,11 @@
 <div align="center">
   <img border-radius: 15px src="https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="White" src="https://img.shields.io/badge/DUMI BOT-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="White" src="https://img.shields.io/badge/T-REX PUBLIC BOT-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/farhan-dqz"><img title="T-REX" src="https://img.shields.io/badge/Created💥by💥DUMINDU and👉HIRUWA-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
-    <a1 href="https://github.com/farhan-dqz"><img title="T-REX" src="https://img.shields.io/badge/Base Created💥by💥HIRUWA and👉 plugin Created by DUMIDU-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a2>
+<a1 href="https://github.com/farhan-dqz"><img title="T-REX" src="https://img.shields.io/badge/Base Created💥by💥HIRUWA and👉 plugin Created by DUMIDU-dqz/JulieMwol?color=red&style=for-the-badge&logo=github"></a2>
 </p>
 </div>
 <p align="center">
@@ -66,12 +66,15 @@ CREATED BY DUMINDU AND HIRUWA
   <div align="center">
     
 
-
-[T-REX bot](https://github.com/farhan-dqz)  | | [Unknown ](https://github.com/afnanplk)
-Base, owner | Help to create bot | unknown
+[![Hiruwa](https://github.com/quiec.png?size=100)](https://quiec.tech)
+Base, owner | Help to create bot | unknown
   </div>
     
 
+## Thanks To
+
+- [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys)
+- [![Yusuf Usta](https://github.com/quiec.png?size=100)](https://quiec.tech)
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
