@@ -1,8 +1,8 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg" width="500" height="500"/>
   <p align="center">
-<a href="#"><img title="White" src="https://img.shields.io/badge/DUMI BOT-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="White" src="https://img.shields.io/badge/T REX PUBLIC-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/farhan-dqz"><img title="White Dragon" src="https://img.shields.io/badge/Created💥by💥DUMINDU-AND👉HIRUWA-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
