@@ -1,4 +1,5 @@
-name: Mark Stale Issues and Pull Requests
+# T Rex
+pname: Mark Stale Issues and Pull Requests
 
 on:
   schedule:
