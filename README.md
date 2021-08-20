@@ -9,17 +9,17 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/farhan-dqz">DUMINDU-AND -HIRUWA</a> to make it public
+Project created by <a href="https://github.com/TRexWa"> HIRUWA</a> This project may be free
     <br>
        | © |
-        Reserved |
+        owner |
     <br> 
 </p>
 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/farhan-dqz/JulieMwol">
+  <a href="https://github.com/TRexWa">
     <img src="https://img.shields.io/github/repo-size/farhan-dqz/JulieMwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/farhan-dqz/followers"><img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
