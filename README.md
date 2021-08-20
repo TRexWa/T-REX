@@ -4,7 +4,6 @@
 <a href="#"><img title="White" src="https://img.shields.io/badge/T-REX PUBLIC BOT-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/farhan-dqz"><img title="T-REX" src="https://img.shields.io/badge/Created💥by💥DUMINDU and👉HIRUWA-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
 <a1 href="https://github.com/farhan-dqz"><img title="T-REX" src="https://img.shields.io/badge/Base Created💥by💥HIRUWA and👉 plugin Created by DUMIDU-dqz/JulieMwol?color=red&style=for-the-badge&logo=github"></a1>
 </p>
 </div>
@@ -66,15 +65,15 @@ CREATED BY DUMINDU AND HIRUWA
   <div align="center">
     
 
-[![Hiruwa](https://github.com/quiec.png?size=100)](https://quiec.tech)
-Base, owner | Help to create bot | unknown
+[![Hiruwa]]   [![DUMIDU]]
+Base, owner | Help to create bot |
   </div>
     
 
 ## Thanks To
 
 - [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys)
-- [![Yusuf Usta](https://github.com/quiec.png?size=100)](https://quiec.tech)
+- [@YusfaUsta] For Coded Base bot
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
