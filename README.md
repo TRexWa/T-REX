@@ -23,9 +23,9 @@ Project created by <a href="https://github.com/TRexWa"> HIRUWA</a> This project 
     <img src="https://img.shields.io/github/repo-size/farhan-dqz/JulieMwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/TRexWa/followers"><img title="Followers" src="https://img.shields.io/github/followers/TRexWa?color=blue&style=flat-square"></a>
-<a href="https://github.com/TRexWa/T-REX/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/TRexWa/T-REX/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/TRexWa/T-REX/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/TRexWa/T-REX/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/TRexWa/T-REX?color=blue&style=flat-square"></a>
+<a href="https://github.com/TRexWa/T-REX/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TRexWa/T-REX?color=blue&style=flat-square"></a>
+<a href="https://github.com/TRexWa/T-REX/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TRexWa/T-REX?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -65,7 +65,7 @@ CREATED BY DUMINDU AND HIRUWA
 ## Helpers
   <div align="center">
     
-  [![Hiruwa](https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg/IMG-20210818-162806.jpg?size=100)](https://telegra.ph/file/df8f8f311214588c90cdb.jpg) |  [![Ravana](https://github.com/Alien-alfa.png?size=100)]
+  [![Hiruwa](https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg/IMG-20210818-162806.jpg?size=100)]
 Base, owner |
   </div>
     
