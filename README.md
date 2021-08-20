@@ -36,7 +36,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/La5MMeWqcLK0Msq50LvnqX)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/TRexWa/T-REX)
   </div>
     
 ## Setup
@@ -65,10 +65,8 @@ CREATED BY DUMINDU AND HIRUWA
 ## Helpers
   <div align="center">
     
-  [![DUMI BOT](https://i.ibb.co/7G8DcmD/IMG-20210818-162806.jpg?size=100)](https://telegra.ph/file/df8f8f311214588c90cdb.jpg) |  [![Ravana](https://github.com/Alien-alfa.png?size=100)](https://github.com/RAVANA-SL/slRavana) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
-----|----|----
-[dumi bot](https://github.com/farhan-dqz)  | [Ravana](https://github.com/RAVANA-SL/slRavana) | [Unknown ](https://github.com/afnanplk)
-Base, owner | Help to create bot | unknown
+  [![Hiruwa](https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg/IMG-20210818-162806.jpg?size=100)](https://telegra.ph/file/df8f8f311214588c90cdb.jpg) |  [![Ravana](https://github.com/Alien-alfa.png?size=100)]
+Base, owner |
   </div>
     
 
