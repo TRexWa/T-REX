@@ -9,11 +9,11 @@
     "stack": "container",
     "env": {
         "TREX_SESSION": {
-            "description": " Type here yours T-Rex Session.",
+            "description": "ඔබ ස්කෑන කල පසු ලැබුනු කේතය ඇතුලත් කරන්න.. , Type here yours T-Rex Session.",
             "required": true
         },
         "SUDO": {
-            "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 1205xxxxxxxxx (USA number +1)",
+            "description": "ඔබේ බොට්ගේ පාලනය තවකෙකුට ලබා දීමට . Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 1205xxxxxxxxx (USA number +1)",
             "required": false
         },
         "LANGUAGE": {
@@ -22,22 +22,22 @@
             "value": "si"
         },
         "ANTİ_LİNK": {
-            "description": "Link Blocking System.",
+            "description": "ලින්ක් වැලැක්වීමේ ක්‍රියාවලිය , Link Blocking System.",
             "required": true,
             "value": "false"
         },
         "AUTO_BİO": {
-            "description": "Set true for auto date, time in biography.",
+            "description": "ඔබගේ බයෝ එක දිනෙන් දින වෙනස් කිරීමට , Set true for auto date, time in biography.",
             "required": true,
             "value": "false"
         },
         "HANDLERS": {
-            "description": "For commands.",
+            "description": "වෙනස් නොකරන්න , Do not change For commands.",
             "required": true,
             "value": "^[.!;]"
         },
         "FULL_EVA": {
-            "description": " Turn your account into a chatbot!",
+            "description": "ඔබගේ බොට් චැට් බොට් කෙනෙකු ලෙස ක්‍රියා කිරීමට , Turn your account into a chatbot!",
             "required": true,
             "value": "false"
         },
@@ -47,7 +47,7 @@
             "value": "false"
         },
         "SEND_READ": {
-            "description": " Write true if you want to throw seen.",
+            "description": "බොට් ලවා පනිවිඩ බැලීමට , Write true if you want to throw seen.",
             "required": true,
             "value": "true"
         },
@@ -57,7 +57,7 @@
             "value": "true"
         },
         "HEROKU_API_KEY": {
-            "description": " Heroku API Key.",
+            "description": "හෙරෝකු API කී එක , Heroku API Key.",
             "required": true
         },
         "MUTE_MESSAGE": {
@@ -91,7 +91,7 @@
             "value": "public"
         },
         "HEROKU_APP_NAME": {
-            "description": "Heroku APP Name.",
+            "description": "ඔබ මුලින් ලබා දුන් ඇප් එකේ නම , Heroku APP Name.",
             "required": true
         },
         "DEBUG": {
@@ -104,9 +104,9 @@
             "required": false
         },
         "ALIVE_MESSAGE": {
-            "description": "Customizable Alive Message! Use => default, to change back.",
+            "description": "ඔබ ඔන්ලයින්ද ? ඔබේ පණිවිඩය මෙහි තබන්න , Customizable Alive Message! Use => default, to change back.",
             "required": true,
-            "value": "හායි මම දැන් ඔන්ලයින්/n🥀 https://chat.whatsapp.com/GT5V8RakkftB7DAKWMeQML අපෙ සපෝට් ගෲප් එක"
+            "value": "  ❰🍁🔱  T Rex BOT  🔱🍁❱\n\nමේ අවස්තාවේදී ඔන්ලයින් ඉන්නෝ 😒\n\nCREATED BY HIRUWA 😘😘🍁"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
@@ -141,7 +141,7 @@
         "GAN_IMAGE": {
             "description": "Type image link for Gan Style plugin.",
             "required": true,
-            "value": "https://i.hizliresim.com/loUtAb.jpg"
+            "value": "https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg"
         },
         "NO_ONLINE": {
             "description": " Type true if you don't want to appear online.",
