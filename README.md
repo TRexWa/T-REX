@@ -65,7 +65,7 @@ CREATED BY HIRUWA
 ## Helpers
   <div align="center">
     
-  [![Hiruwa](https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg/IMG-20210818-162806.jpg?size=100)]
+![Hiruwa](https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg/IMG-20210818-162806.jpg?size=100)
 Base, owner |
   </div>
     
