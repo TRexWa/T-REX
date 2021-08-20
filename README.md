@@ -65,7 +65,7 @@ CREATED BY DUMINDU AND HIRUWA
   <div align="center">
     
 
-   HIRUWA | DUMIDU 
+     HIRUWA | DUMIDU 
 Base, owner | Help to create bot |
   </div>
     
