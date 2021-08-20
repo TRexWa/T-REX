@@ -10,7 +10,7 @@
 </div>
 <p align="center">
 Project created by <a href="https://github.com/TRexWa"> HIRUWA</a> This project may be free
-    <br>
+    <br
        | © |
         owner |
     <br> 
@@ -59,7 +59,7 @@ bash <(curl -L https://t.ly/tHxh)
 ### ⚠️ Warning! 
 ```
 කරුනාකර ඉහත වට්සැප් ලොගො එක ක්ලික් කරල suppot group එකට ජොයින් වෙන්න
-CREATED BY DUMINDU AND HIRUWA
+CREATED BY HIRUWA
 ```
 
 ## Helpers
