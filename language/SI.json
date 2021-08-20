@@ -517,7 +517,7 @@
             
        },
         "github": {
-            "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github phaticusthiccy",
+            "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github TRexWa",
             "REPLY": "```You Need To Type Any Username!```",
             "NOT": "```User not found!```",
             "FOLLOWERS": "Followers:",
