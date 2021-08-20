@@ -5,7 +5,7 @@
 </p>
   <p align="center">
 <a href="https://github.com/farhan-dqz"><img title="T-REX" src="https://img.shields.io/badge/Created💥by💥DUMINDU and👉HIRUWA-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
-<a1 href="https://github.com/farhan-dqz"><img title="T-REX" src="https://img.shields.io/badge/Base Created💥by💥HIRUWA and👉 plugin Created by DUMIDU-dqz/JulieMwol?color=red&style=for-the-badge&logo=github"></a2>
+<a1 href="https://github.com/farhan-dqz"><img title="T-REX" src="https://img.shields.io/badge/Base Created💥by💥HIRUWA and👉 plugin Created by DUMIDU-dqz/JulieMwol?color=red&style=for-the-badge&logo=github"></a1>
 </p>
 </div>
 <p align="center">
