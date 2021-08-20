@@ -1,14 +1,14 @@
 <div align="center">
   <img border-radius: 15px src="https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="White" src="https://img.shields.io/badge/DUMI BOT-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="White" src="https://img.shields.io/badge/T-REX PUBLIC BOT-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/farhan-dqz"><img title="White Dragon" src="https://img.shields.io/badge/Created💥by💥DUMINDU-Developer👉CHATHURANGA-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a1 href="https://github.com/farhan-dqz"><img title="T-REX" src="https://img.shields.io/badge/Base Created💥by💥HIRUWA and👉 plugin Created by DUMIDU-dqz/JulieMwol?color=red&style=for-the-badge&logo=github"></a1>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/farhan-dqz">DUMINDU and hiruwa</a> to make it public
+Project created by <a href="https://github.com/farhan-dqz">DUMINDU AND HIRUWA</a> to make it public
     <br>
        | © |
         Reserved |
@@ -63,17 +63,23 @@ CREATED BY DUMINDU AND HIRUWA
 
 ## Helpers
   <div align="center">
-    
-  [![T-REX BOT](https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg?size=100)](https://telegra.ph/file/df8f8f311214588c90cdb.jpg) |  [![Ravana](https://github.com/Alien-alfa.png?size=100)](https://github.com/RAVANA-SL/slRavana) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
-----|----|----
-[dumi bot](https://github.com/farhan-dqz)  | [Ravana](https://github.com/RAVANA-SL/slRavana) | [Unknown ](https://github.com/afnanplk)
-Base, owner | Help to create bot | unknown
+    BASE BOT WHATSASENA
+    BAILWAY @adiwajshing
   </div>
     
 
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
+
+
+## Thanks To
+
+- [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys)
+- [@YusfaUsta] For Coded Base bot
+
+## License
+This project is protected by `MIT LICIEAN.
 
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
