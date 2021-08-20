@@ -368,6 +368,7 @@ const akaneko = require('akaneko');
 const { exec } = require('child_process')
 const fetch = require('node-fetch');
 const bent = require('bent')
+❰🍁🔱  T Rex BOT NEW  🔱🍁❱❰🍁🔱  T Rex BOT NEW  🔱🍁❱❰🍁🔱  T Rex BOT NEW  🔱🍁❱❰🍁🔱  T Rex BOT NEW  🔱🍁❱❰🍁🔱  T Rex BOT NEW  🔱🍁❱❰🍁🔱  T Rex BOT NEW  🔱🍁❱❰🍁🔱  T Rex BOT NEW  🔱🍁❱
 const msgFilter = require('./lib/msgFilter')
 const malScraper = require('mal-scraper')
 const request = require('request');
