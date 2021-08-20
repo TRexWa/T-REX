@@ -65,7 +65,7 @@ CREATED BY DUMINDU AND HIRUWA
   <div align="center">
     
 
-     HIRUWA | DUMIDU 
+   HIRUWA | DUMIDU 
 Base, owner | Help to create bot |
   </div>
     
@@ -76,7 +76,7 @@ Base, owner | Help to create bot |
 - [@YusfaUsta] For Coded Base bot
 
 ## License
-This project is protected by `GNU General Public Licence v3.0` license.
+This project is protected by `MIT LICIEAN.
 
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
