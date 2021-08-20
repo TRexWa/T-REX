@@ -2,14 +2,14 @@
     "name": "T-REX BOT",
     "description": "T-REX project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
     "logo": "https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg",
-    "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
+    "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "T-Rex", "t-rex", "Trex", "bot", "api", "ai"],
     "repository": "https://github.com/TRexWa/T-REX",
-    "website":   "https://chat.whatsapp.com/La5MMeWqcLK0Msq50LvnqX",
-    "success_url": "https://chat.whatsapp.com/La5MMeWqcLK0Msq50LvnqX",
+    "website":   "https://chat.whatsapp.com/GT5V8RakkftB7DAKWMeQML",
+    "success_url": "https://chat.whatsapp.com/GT5V8RakkftB7DAKWMeQML",
     "stack": "container",
     "env": {
-        "T-REX_SESSION": {
-            "description": " Type here yours Asena Session.",
+        "TREX_SESSION": {
+            "description": " Type here yours T-Rex Session.",
             "required": true
         },
         "SUDO": {
@@ -86,9 +86,9 @@
             "value": "default"
         },
         "WORK_TYPE": {
-            "description": "WhatsAsena Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "❰🍁🔱  T Rex BOT NEW  🔱🍁❱ Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
-            "value": "private"
+            "value": "public"
         },
         "HEROKU_APP_NAME": {
             "description": "Heroku APP Name.",
@@ -106,7 +106,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": true,
-            "value": "හායි මම දැන් ඔන්ලයින්/n🥀 https://chat.whatsapp.com/La5MMeWqcLK0Msq50LvnqX/n අපෙ සපෝට් ගෲප් එක"
+            "value": "හායි මම දැන් ඔන්ලයින්/n🥀 https://chat.whatsapp.com/GT5V8RakkftB7DAKWMeQML අපෙ සපෝට් ගෲප් එක"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
